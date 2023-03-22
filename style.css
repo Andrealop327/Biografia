@@ -1,0 +1,28 @@
+/* Etiquetas, clases y herencia     */
+.contenedor {
+    display: flex;
+    margin: 0  auto;
+    width: 80%;
+    border-radius: 2px;
+    padding: 3px auto;
+}
+.principal{
+    width: 40%;
+    background-color: rgb(169, 76, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+.lateral{
+    width: 40%;
+    background-color: #8855e7;
+    margin: 10px;
+    padding: 10px;
+
+}
+img{
+    display: inline-flex;
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
